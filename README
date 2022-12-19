@@ -1,0 +1,3 @@
+To see shiny app, run the following in R:
+library("shiny")
+shiny::runGitHub('jwhitedubs/FinalProject_STAT433')
